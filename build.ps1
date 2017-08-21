@@ -9,5 +9,3 @@ if (-not (get-command hugo -ErrorAction SilentlyContinue)) {
 
 hugo -d ./public/staging -b "http://minimallyviable-staging.azurewebsites.net/" 
 hugo -d ./public/prod
-
-Compress-Archive .\public\* -DestinationPath site.zip
