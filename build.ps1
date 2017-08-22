@@ -11,5 +11,5 @@ if (Test-Path ./public) {
     Remove-Item -Path ./public -Recurse -Force
 } 
 
-hugo -d ./public/staging -b "http://minimallyviable-staging.azurewebsites.net/" 
+hugo -d ./public/staging -b "http://staging.minimallyviable.io/" 
 hugo -d ./public/prod -b "http://minimallyviable.io/"
