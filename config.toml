@@ -50,7 +50,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [Params.widgets]
     search = true                 # Enable a search bar widget
-    recent_articles = false        # Enable "Recent articles" widget
+    recent_articles = true        # Enable "Recent articles" widget
     categories = false             # Enable "Categories" widget
     tags = false                   # Enable "Tags" widget
     #patreon = "mypatreonusername" # Enable "Patreon" widget
