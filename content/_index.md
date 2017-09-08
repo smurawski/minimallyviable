@@ -1,4 +1,4 @@
 
-## [Our First Show](./podcasts/v0.0.1/)
+## [Our First Show](./posts/v0.0.1/)
 
-## [Our Second Show](./podcasts/v0.0.2/)
+## [Our Second Show](./posts/v0.0.2/)
